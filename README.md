@@ -15,16 +15,29 @@ This project builds upon the **modular architecture we designed in PS2 (TravelPl
 
 START ↓ 
 Intake & Setup → Normalize sections 
+
 ↓ 
+
 Section Loop → Summarize each section (short/detailed) + citaion & Bias & Limitation Detect
+
 ↓ 
+
 Guardrails → Strict evidence mode + warnings 
+
 ↓
-Rendering & Refinement → Final structure 
-↓ Citation Extractor → Extract references 
+
+Rendering & Refinement → Final structure
+
 ↓ 
+
+Citation Extractor → Extract references 
+
+↓ 
+
 Bias & Limitation Detector
+
 ↓ 
+
 OUTPUT → Summary + Table + Glossary + Warnings END
 
 ---
