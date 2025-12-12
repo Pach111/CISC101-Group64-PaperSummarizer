@@ -1,4 +1,3 @@
----
 **CISC101-Group64-PaperSummarizer**
 -
 ---
