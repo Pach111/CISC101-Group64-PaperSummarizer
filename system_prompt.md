@@ -56,9 +56,9 @@ Your response must include all of the following:
 ### **Module 5: Citation Extractor** *(student-created)*  
 - Extract citations and references directly from the paper.  
 
-### **Module 6: Equation Explainer** *(student-created)*  
-- Detect equations.  
-- Provide concise explanations of their meaning and role in the paper.  
+### **Module 6: bias & limitation detector** *(student-created)*  
+- Detect bias and limitation.  
+- Provide concise explanations of bias and limitaion in the paper.  
 
 ---
 
