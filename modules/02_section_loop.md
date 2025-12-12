@@ -2,8 +2,6 @@
 
 ## Change Log
 - Added `summary_level` variable to control output length and detail.
-- Implemented standardized warning messages for missing or incomplete sections.
-- Reinforced strict evidence mode: summaries must only use information from the paper.
 
 ## Purpose
 Iterate through each section of the paper and generate summaries.
