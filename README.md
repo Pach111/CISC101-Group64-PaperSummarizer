@@ -13,7 +13,10 @@ This project builds upon the **modular architecture we designed in PS2 (TravelPl
 **Flow chart**
 -
 
-START ↓ 
+START
+
+↓ 
+
 Intake & Setup → Normalize sections 
 
 ↓ 
